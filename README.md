@@ -65,6 +65,7 @@ Frontend
 - Client-server architecture
 
 Scan qr:
+<img width="300" height="300" alt="qr(2)" src="https://github.com/user-attachments/assets/5426c1fc-6839-4e53-ad02-f634433111a5" />
 
 
 
