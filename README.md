@@ -64,7 +64,9 @@ Frontend
 - REST API integration
 - Client-server architecture
 
----
+Scan qr:
+<img width="300" height="300" alt="qr(2) png" src="https://github.com/user-attachments/assets/f3379b40-22b5-4a3b-b6cb-7d236da19650" />
+
 
 ## 👩‍💻 Developed By
 Alina Mubarik
