@@ -64,8 +64,14 @@ Frontend
 - REST API integration
 - Client-server architecture
 
-Scan qr:
-<img width="300" height="300" alt="qr(2)" src="https://github.com/user-attachments/assets/5426c1fc-6839-4e53-ad02-f634433111a5" />
+Scan qr for pdf:
+
+
+
+
+
+
+<img width="300" height="300" alt="frame (1)" src="https://github.com/user-attachments/assets/847bc055-f4fe-4a18-aa6f-00ab44d87088" />
 
 
 
