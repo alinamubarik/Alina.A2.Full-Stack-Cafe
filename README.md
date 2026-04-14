@@ -74,6 +74,14 @@ Scan qr for pdf:
 <img width="300" height="300" alt="frame (1)" src="https://github.com/user-attachments/assets/847bc055-f4fe-4a18-aa6f-00ab44d87088" />
 
 
+Scan qr for CAFE:
+
+
+
+<img width="193" height="189" alt="aas 2" src="https://github.com/user-attachments/assets/abb6a47d-62b8-45c2-adbd-70961fb4ba93" />
+
+
+
 
 ## 👩‍💻 Developed By
 Alina Mubarik
